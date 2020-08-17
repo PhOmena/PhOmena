@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Phelipe Omena. 👋
 
-<!--
-**PhOmena/PhOmena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 I’m currently learning about ReactJs | Node.Js | ReactNative
+- 📓 I intend to study and know more about TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+<div width="100%" text-align:center>
+<img width="30" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
+<img width="30" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="HTML">
+<img width="30" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="HTML">
+<img width="30" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="HTML">
+<img width="30" display="block" src="https://user-images.githubusercontent.com/38151364/89709011-5718a500-d952-11ea-8b62-cbba56cbe1cd.png" alt="HTML">
+</div>
+<br>
+<br>
+
