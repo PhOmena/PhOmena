@@ -4,7 +4,7 @@
 - 💻 I’m currently learning about ReactJs | Node.Js | ReactNative
 - 📓 I intend to study and know more about TypeScript
 
-### Languages
+### Languages and Tools
 
 <div width="100%" text-align:center>
 <img width="30" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
