@@ -1,5 +1,5 @@
 ## Hi there, I'm Phelipe Omena. 👋
-### I'm a Analyst and Developer!
+### I'm an Analyst and Developer!
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:phelipeomena58@gmaill.com)](mailto:phelipeomena58@gmail.com)
