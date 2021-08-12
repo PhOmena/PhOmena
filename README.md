@@ -1,17 +1,16 @@
 ## Olá! Eu sou o Phelipe Omena! 
 
-### Sou analista e desenvolvedor de sistemas!
-
-### Contatos e Redes Sociais
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:phelipeomena58@gmaill.com)](mailto:phelipeomena58@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/phelipe-omena-235b961ab///)](https://www.linkedin.com/in/phelipe-omena-235b961ab/)
+### Contatos e Redes Sociais 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&logoColor=ee0000&link=mailto:phelipeomena58@gmaill.com)](mailto:phelipeomena58@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=0274b3&link=https://https://www.linkedin.com/in/phelipe-omena-235b961ab///)](https://www.linkedin.com/in/phelipe-omena-235b961ab/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&labelColor=000&logo=whatsapp&logoColor=26d367&link=https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)](https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)
 <br>
 
-### Linguagens
+### Linguagens e Ferramentas
 
- <div>
+<!--  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhOmena&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
    <img align="center" alt="PH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -23,4 +22,4 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
