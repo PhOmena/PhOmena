@@ -1,9 +1,9 @@
 ## Hi there! I'm Phelipe Omena 
 
 ### Social Media 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&logoColor=ee0000&link=mailto:phelipeomena58@gmaill.com)](mailto:phelipeomena58@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&logoColor=dd4b3e&link=mailto:phelipeomena58@gmaill.com)](mailto:phelipeomena58@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=0274b3&link=https://https://www.linkedin.com/in/phelipe-omena-235b961ab///)](https://www.linkedin.com/in/phelipe-omena-235b961ab/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&labelColor=000&logo=whatsapp&logoColor=26d367&link=https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)](https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=26d367&link=https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)](https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)
 <br>
 
 ### Languages and Tools
@@ -18,9 +18,8 @@
 </div>
 <br>
 
-
  <div>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhOmena&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhOmena&layout=compact&langs_count=6&theme=gruvbox">
 </div>
 
 <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
