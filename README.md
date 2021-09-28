@@ -18,8 +18,8 @@
 </div>
 <br>
 
- <div>
+<!--  <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhOmena&layout=compact&langs_count=6&theme=radical">
-</div>
+</div> -->
 
 <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
