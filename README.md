@@ -1,7 +1,7 @@
 <h3>👋🏻 Hi there, I'm Phelipe.</h3>
 <br>
 
-> 💻 My best languages
+> 💻 My best languages and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=html5&logoColor=blue)
@@ -16,7 +16,7 @@
 
 <br>
 
-> Social
+> 📺 Social
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=blue&link=https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)](https://api.whatsapp.com/send?phone=5511967221341&text=Olá!)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/phelipe-omena-235b961ab///)](https://www.linkedin.com/in/phelipe-omena-235b961ab/)
