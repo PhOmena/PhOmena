@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Phelipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+   <h1>Olá, Eu sou o Phelipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 </div>
 
 <p align='center'>
@@ -10,11 +10,10 @@
 </a>&nbsp;&nbsp;
 </p>
 
-- ⚛️ Learning ReactJS and React Native
-- 🎸 I'm a guitar player
-- 🕶️ Always Learning
+- ⚛️ Aprendendo ReactJS e React Native
+- 🎸 Sou multi-instrumentista
   
-### Languages and Tools:
+### Linguagens e ferramentas:
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3"width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
