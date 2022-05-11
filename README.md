@@ -1,9 +1,9 @@
 <div align="center">
-   <h1>Olá, eu sou o Phelipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+   <h1>Hello, I'm Phelipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 </div>
 
 
-### Contato
+### Talk to me
 <p align='left'>
 <a href="https://www.linkedin.com/in/phelipe-omena-235b961ab"><img height="30" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png"</a>&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=5511967221341&text=Olá!"><img height="30" src="https://cdn.icon-icons.com/icons2/555/PNG/512/whatsapp_icon-icons.com_53606.png"
@@ -13,7 +13,7 @@
 </p>
 
    
-### Linguagens e ferramentas:
+### Stacks and Tools:
 <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
 <img align="left" alt="SQL" width="30px" src="https://cdn.icon-icons.com/icons2/9/PNG/128/sql_racer_gamedatabase_sql_1526.png" />
 <img align="left" alt="Excel" width="30px" src="https://cdn.icon-icons.com/icons2/2397/PNG/128/microsoft_office_excel_logo_icon_145720.png" />
