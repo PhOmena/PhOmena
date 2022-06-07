@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello, I'm Phelipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+   <h1>Hello, I'm Phelipe!</h1> 
 </div>
 
 
