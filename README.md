@@ -16,7 +16,6 @@
 ### Stacks and Tools:
 <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
 <img align="left" alt="SQL" width="30px" src="https://cdn.icon-icons.com/icons2/9/PNG/128/sql_racer_gamedatabase_sql_1526.png" />
-<img align="left" alt="Excel" width="30px" src="https://cdn.icon-icons.com/icons2/2397/PNG/128/microsoft_office_excel_logo_icon_145720.png" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
 <img align="left" alt="CSS3"width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_js_official_icon_130509.png"/>
