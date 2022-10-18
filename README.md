@@ -1,9 +1,7 @@
 
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Phelipe Omena</h1>
 
-- 🔭 I’m currently working at [Itaú Unibanco](https://www.itau.com.br/)
 
-- 👨‍💻 More at [phelipeomena.dev]()
    
 ## Stacks and Tools:
 <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
@@ -18,11 +16,13 @@
 <img align="left" alt="shell" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_powershell_icon_130243.png"/>
 <br />
 
-## Contact
-<p align='left'>
-<a href="https://www.linkedin.com/in/phelipe-omena-235b961ab"><img height="30" src="https://cdn.icon-icons.com/icons2/99/PNG/128/linkedin_socialnetwork_17441.png"</a>&nbsp;&nbsp;
-<a href="mailto:phomena_2016@outlook.com"><img height="30" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png"
-</a>&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=5511967221341&text=Olá!"><img height="30" src="https://cdn.icon-icons.com/icons2/99/PNG/128/whatsapp_socialnetwork_17360.png"
-</a>&nbsp;&nbsp;
-</p>
+
+## Talk to me
+<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:phomena_2016@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/phelipe-omena-235b961ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+# You wanna know more about me?
+
+Check it out [phelipeomena.dev]()
